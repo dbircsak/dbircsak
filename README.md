@@ -14,9 +14,9 @@ And the third quality: Keep It Simple, Stupid. They actually told us about KISS 
 
 ### Future
 
-Right now, I'm starting to feel like I'm on the edge of a cliff. I see the AI revolution :paperclip: approaching and I am uneasy because I don't know how to process it. Deep down inside there's also excitement in me. If we could just explain our ideas to a machine and have it do the implementation, imagine how much bigger problems we could solve? Do we need KISS, or leave that part up to the AI?
+Right now, I'm starting to feel like I'm on the edge of a cliff. I see the AI revolution approaching and I am uneasy because I don't know how to process it. Deep down inside there's also excitement in me. If we could just explain our ideas to a machine and have it do the implementation, imagine how much bigger problems we could solve? Do we need KISS, or leave that part up to the AI?
 
-It almost feels like we get to lead an orchestra and the flute player is really good, and the trumpet guy can really hit those notes. We just need to direct them to make a song that brings the crowd to some emotion. And does my AI flute and trumpet understand that emotion? Only if I tell it what to think. :sweat_smile:
+It almost feels like we get to lead an orchestra and the flute player is really good, and the trumpet guy can really hit those notes. We just need to direct them to make a song that brings the crowd to some emotion. And does my AI flute and trumpet understand that emotion? Only if I tell it what to think. :D
 
 ### :mailbox: Contact
 
