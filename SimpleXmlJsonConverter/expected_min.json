@@ -1,0 +1,30 @@
+{
+    "catalog": {
+        "@id": "C-001",
+        "title": "Books",
+        "book": [
+            {
+                "@isbn": "978-0134685991",
+                "author": "Stroustrup",
+                "title": "The C++ Programming Language",
+                "price": {
+                    "@currency": "USD",
+                    "#text": "59.99"
+                }
+            },
+            {
+                "@isbn": "978-0321563842",
+                "author": "Meyers",
+                "title": "Effective C++",
+                "price": {
+                    "@currency": "USD",
+                    "#text": "39.99"
+                }
+            }
+        ],
+        "meta": {
+            "@lang": "en",
+            "#text": "stable"
+        }
+    }
+}
