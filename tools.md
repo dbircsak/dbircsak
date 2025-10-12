@@ -18,3 +18,7 @@
 ## Code
 
 - [concurrentqueue](https://github.com/cameron314/concurrentqueue)
+
+## Videos
+
+-[How 1999 Quake 3 Teaches Elite Software Engineering](https://www.youtube.com/watch?v=NeLkxuzCssA)
