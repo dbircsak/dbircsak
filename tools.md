@@ -21,4 +21,4 @@
 
 ## Videos
 
--[How 1999 Quake 3 Teaches Elite Software Engineering](https://www.youtube.com/watch?v=NeLkxuzCssA)
+- [How 1999 Quake 3 Teaches Elite Software Engineering](https://www.youtube.com/watch?v=NeLkxuzCssA)
