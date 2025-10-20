@@ -10,7 +10,8 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
 - [WinSCP](https://winscp.net/eng/index.php)
-
+- [XnConvert](https://www.xnview.com/en/xnconvert/)
+  - Actions > Transform > Resize > Longest side > Size 2048 > Output > JPEG / JFIF
 ## Paid
 
 - [Beyond Compare](https://www.scootersoftware.com/)
