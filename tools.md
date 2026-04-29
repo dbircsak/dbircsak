@@ -12,6 +12,8 @@
 - [WinSCP](https://winscp.net/eng/index.php)
 - [XnConvert](https://www.xnview.com/en/xnconvert/)
   - Actions > Transform > Resize > Longest side > Size 2048 > Reduce only > Output > JPEG / JFIF
+- [GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
+
 ## Paid
 
 - [Beyond Compare](https://www.scootersoftware.com/)
