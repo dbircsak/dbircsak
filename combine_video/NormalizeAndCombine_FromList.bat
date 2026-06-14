@@ -1,8 +1,8 @@
 @echo off
 setlocal EnableExtensions EnableDelayedExpansion
 
-set "WIDTH=1920"
-set "HEIGHT=1080"
+set "WIDTH=1080"
+set "HEIGHT=1920"
 set "FPS=30"
 set "VIDEO_CRF=20"
 set "VIDEO_PRESET=medium"
